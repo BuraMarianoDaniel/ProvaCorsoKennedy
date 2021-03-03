@@ -7,6 +7,6 @@ public class ClasseProva {
 	}
 	
 	private void test() {
-		System.out.println("");
+		System.out.println("ciao");
 	}
 }
